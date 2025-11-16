@@ -1,10 +1,8 @@
-[
-   {
-      "anticheat":{
-         "31.57.77.29": "Vice"
-      },
-      "ooc_shop":{
-         "91.124.w": "Shadway",
-      }
-   }
-]
+{
+  "anticheat": {
+    "91.124.63.43": true
+  },
+  "ooc_shop": {
+    "91.124.63.44": "Shadway"
+  }
+}
