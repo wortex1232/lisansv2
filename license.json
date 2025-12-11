@@ -1,7 +1,7 @@
 {
   "licenses": [
     {
-      "serverIP": "192.168.1.149",
+      "serverIP": "localhost",
       "serverName": "Rive",
       "resourceName": "rdp_hud",
       "owner": "Voix",
