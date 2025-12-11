@@ -1,6 +1,12 @@
 {
-  "anticheat": {
-    "31.57.77.29": "Vice Deathplay",
-    "193.164.7.179": "Purna Deathplay"
-  }
+  "licenses": [
+    {
+      "serverIP": "192.168.1.149",
+      "serverName": "Rive",
+      "resourceName": "rdp_hud",
+      "owner": "Voix",
+      "expiryDate": "1",
+      "status": "active"
+    }
+  ]
 }
