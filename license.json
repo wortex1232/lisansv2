@@ -7,14 +7,6 @@
       "owner": "Voix",
       "expiryDate": "20260505",
       "status": "active"
-    },
-    {
-      "serverIP": "95.173.177.100",
-      "serverName": "★ Yeni Sunucu Adı ★ Sesli Deathmatch | Yedek Sunucu",
-      "resourceName": "rdp_hud",
-      "owner": "Voix",
-      "expiryDate": "20260505",
-      "status": "active"
     }
   ]
 }
