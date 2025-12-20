@@ -9,24 +9,21 @@
       "status": "active"
     },
     {
-      "serverIP": "78.185.182.87",
-      "serverName": "✦ Mortal Deathplay ✦ | Ölmüne Rekabet | Türk Sesli Deathmatch ✦",
-      "resourceName": "cr_fx",
-      "owner": "x sunucusu",
-      "expiryDate": "20261313",
-      "status": "active"
-    }
-    
-  ]
-
-  {
       "serverIP": "31.58.250.44",
       "serverName": "⬜️oç Deathplay • Beta Sürüm • Deathplay ve Deathmatch Tarzında [TR/AZ] ",
       "resourceName": "pr_fx",
-      "owner": "x sunucusu",
-      "expiryDate": "20300202",
+      "owner": "Voix",
+      "expiryDate": "20301313",
+      "status": "active"
+    },
+    {
+      "serverIP": "94.154.34.11",
+      "serverName": "█ Viora Roleplay | Polis/Jandarma/Mafya ✦ Türkçe Sesli Roleplay ✦",
+      "resourceName": "rrp_fx",
+      "owner": "Voix",
+      "expiryDate": "20261313",
       "status": "active"
     }
   ]
-
 }
+
