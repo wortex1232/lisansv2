@@ -9,8 +9,8 @@
       "status": "active"
     },
     {
-      "serverIP": "212.100.185.211 ",
-      "serverName": "⬜️oç Deathplay • Beta Sürüm • Deathplay ve Deathmatch Tarzında [TR/AZ] ",
+      "serverIP": "212.100.185.211",
+      "serverName": "⬜️oç Deathplay • Beta Sürüm • Deathplay ve Deathmatch Tarzında [TR/AZ]",
       "resourceName": "pr_fx",
       "owner": "Voix",
       "expiryDate": "20301313",
@@ -23,7 +23,30 @@
       "owner": "Vuse?",
       "expiryDate": "20260202",
       "status": "active"
+    },
+    {
+      "serverIP": "",
+      "serverName": "",
+      "resourceName": "nv_fx",
+      "owner": "Voix",
+      "expiryDate": "20271212",
+      "status": "active"
+    },
+    {
+      "serverIP": "",
+      "serverName": "",
+      "resourceName": "gx_fx",
+      "owner": "Voix",
+      "expiryDate": "20281212",
+      "status": "active"
+    },
+    {
+      "serverIP": "",
+      "serverName": "",
+      "resourceName": "lg_fx",
+      "owner": "Voix",
+      "expiryDate": "20291212",
+      "status": "active"
     }
   ]
 }
-
